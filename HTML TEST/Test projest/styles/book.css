@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color:chartreuse;
+    font-size: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    border: 2px solid black;
+    width: 200;
+    color: coral;
+    
+    
+    display: block;
+}
